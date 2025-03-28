@@ -36,14 +36,14 @@ The dataset contains various fields, including:
 
 ## Visualizations
 1. **Trends in Accidents Over Time**: A line graph showing the number of accidents per year.
-   ![Trends in Accidents Over Time](Documents/Phase_1_Project/dsc-1-project-v3/visualizations/trends_in_accidents.png)
-
+   ![alt text](image-2.png)
+   
 2. **Total Fatal Injuries by Aircraft Type**: A bar chart displaying total fatal injuries for each aircraft type.
-   ![Total Fatal Injuries by Aircraft Type](Documents/Phase_1_Project/dsc-1-project-v3/visualizations/total_fatal_injuries.png)
+   ![alt text](image-1.png)
 
 3. **Accidents by Weather Condition**: A bar chart illustrating the number of accidents based on weather conditions.
-   ![Accidents by Weather Condition](Documents/Phase_1_Project/dsc-1-project-v3/visualizations/accidents_by_weather.png)
-   
+   ![alt text](image.png)
+
 ### Conclusion & Summary
 **Key Findings:**
 Fatal injuries fluctuate over time, with notable peaks in specific years due to major accidents.
